@@ -3,3 +3,18 @@
     height:500px;
     border: none;
 }
+
+.filme_head i{
+    float:right;
+}
+
+.filme_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.conquistas_text span {
+    color: orange;
+}
